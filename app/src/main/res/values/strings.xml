@@ -1,10 +1,15 @@
 <resources>
-    <string name="app_name">PassGeneratorLord</string>
+    <string name="app_name">Marigold Calories Dance</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="generate">generate</string>
+    <string name="settings_text">settings</string>
+    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
+    <string name="music">music</string>
+    <string name="text_activity_good">Dancing improves coordination of movements and strengthens the vestibular apparatus. Positively affect the functioning of the cardiovascular system, training the heart and blood vessels. Regular dance classes help burn excess calories and contribute to weight loss. Increase the efficiency and endurance of the body. Dancing trains almost all the muscles of the body and has a positive effect on the joint tissue. They train the back muscles and help to form a beautiful posture. This is especially true of Spanish dances (pasodol, flamenco and others). Dancing forms a beautiful even gait.</string>
+    <string name="about">about activity</string>
 
     <string-array name="diff_levels">
         <item>SIMPLE</item>
